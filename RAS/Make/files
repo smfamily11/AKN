@@ -1,0 +1,5 @@
+gammaReThetatSST/gammaReThetatSST.C
+AKN/AKN.C
+derivedFvPatchFields/ReThetatTildaInlet/ReThetatTildaInletFvPatchScalarField.C
+
+LIB = $(FOAM_USER_LIBBIN)/libGammaReThetatSST
